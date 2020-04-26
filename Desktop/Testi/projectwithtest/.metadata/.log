@@ -1,0 +1,30 @@
+!SESSION 2020-04-22 19:16:54.459 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=11.0.4
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/vilmataavitsainen/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/vilmataavitsainen/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2020-04-22 19:17:15.072
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2020-04-26 17:05:50.825 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=11.0.4
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/vilmataavitsainen/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/vilmataavitsainen/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2020-04-26 17:06:01.194
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2020-04-26 17:11:20.250 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=11.0.4
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=fi_FI
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/vilmataavitsainen/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/vilmataavitsainen/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2020-04-26 17:11:38.847
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
